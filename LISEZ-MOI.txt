@@ -1,0 +1,17 @@
+COSMOS BOARD DOWNLOADER
+
+Installation (Chrome, Edge, Opera, Vivaldi, Brave…) :
+1. Dézippe ce dossier.
+2. Ouvre chrome://extensions (ou opera://extensions, edge://extensions)
+3. Active le « Mode développeur ».
+4. Clique « Charger l'extension non empaquetée » et choisis le dossier cosmos-downloader.
+
+Utilisation :
+1. Ouvre ton tableau sur cosmos.so (connecté, ça marche aussi pour les tableaux privés).
+2. Clique sur l'icône de l'extension puis « Tout télécharger ».
+3. L'extension fait défiler le tableau jusqu'en bas, puis télécharge tout dans
+   Téléchargements/Cosmos - <nom du tableau>/001.png, 002.png, 003.mp4…
+
+Si des recommandations sont encore téléchargées :
+- Ouvre l'extension, clique « Choisir la limite à la main », scrolle sous ton tableau et clique sur la
+  PREMIÈRE image recommandée. Rouvre ensuite l'extension et clique « Tout télécharger ».
